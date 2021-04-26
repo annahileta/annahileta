@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annahileta
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning java
 - 📫 How to reach me anna.hileta@sigma.software
 
 <!---
