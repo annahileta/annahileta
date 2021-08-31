@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annahileta
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning platform internals of .NET
 - 📫 How to reach me anna.hileta@sigma.software
 
 <!---
