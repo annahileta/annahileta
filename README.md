@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annahileta
-- 🌱 I’m currently learning platform internals of .NET
+- 🌱 I’m currently learning a cource on Object-Oriented development
 - 📫 How to reach me anna.hileta@sigma.software
 
 <!---
