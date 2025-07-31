@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annahileta
-- 🌱 I’m currently learning a cource on Algorithms and data structures.
+- 🌱 I’m currently learning a course on Algorithms and data structures.
 - 📫 How to reach me anna.hileta@sigma.software
 
 <!---
